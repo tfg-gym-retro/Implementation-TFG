@@ -19,3 +19,7 @@ This repository contains all the python notebooks developed for this project as 
   - [**María Arranz Lobo**](https://github.com/maria-arranz)
   - [**Manuel Llorca Ron**](https://github.com/ManuKai1)
   - [**Manuel Ortega Salvador**](https://github.com/manuorsv)
+
+## License 
+
+This project is licensed under the [MIT License](https://github.com/tfg-gym-retro/Implementation-TFG/blob/master/LICENSE).
