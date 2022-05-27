@@ -11,7 +11,11 @@ algorithms and tools and then applying them in increasingly complex environments
 
 This repository contains all the python notebooks developed for this project as well as the training data used to draw the results obtained with them:
 - [Agents](https://github.com/tfg-gym-retro/Implementation-TFG/tree/master/Agents): this folder contains all the trained agents data needed to reproduce the results.
-- 
+- [Notebooks](https://github.com/tfg-gym-retro/Implementation-TFG/tree/master/Notebooks): this folder contains all the python notebooks of the project
+  - [Cartpole](https://github.com/tfg-gym-retro/Implementation-TFG/tree/master/Notebooks/CartPole): contains the implemetation of the algorithms for Gym Retro's Cartpole evironment.
+  - [Atari](https://github.com/tfg-gym-retro/Implementation-TFG/tree/master/Notebooks/Atari): the implementations for the Atari Space Invaders environment.
+  - [NES](https://github.com/tfg-gym-retro/Implementation-TFG/tree/master/Notebooks/NES): the implementations for the NES Space Invaders environment.
+  - [XAI](https://github.com/tfg-gym-retro/Implementation-TFG/tree/master/Notebooks/XAI): contains the notebooks with the [RISE](https://github.com/eclique/RISE) implementations used to generate the explanations.
 
 ## Authors
 
